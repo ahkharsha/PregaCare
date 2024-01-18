@@ -1,0 +1,29 @@
+{
+    "project_info": {
+      "project_number": "93911769750",
+      "project_id": "pregacare-696969",
+      "storage_bucket": "pregacare-696969.appspot.com"
+    },
+    "client": [
+      {
+        "client_info": {
+          "mobilesdk_app_id": "1:93911769750:android:c28c15f1c218a9767418b7",
+          "android_client_info": {
+            "package_name": "com.example.pregacare"
+          }
+        },
+        "oauth_client": [],
+        "api_key": [
+          {
+            "current_key": "AIzaSyBVFvbCkcQhXfaQooF1eS_5Aj25gaAJaJY"
+          }
+        ],
+        "services": {
+          "appinvite_service": {
+            "other_platform_oauth_client": []
+          }
+        }
+      }
+    ],
+    "configuration_version": "1"
+  }
